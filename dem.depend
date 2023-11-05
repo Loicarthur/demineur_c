@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1678081335 source:c:\users\tatue\onedrive\bureau\cours 3il\demineur c++\main.cpp
+	<cstdlib>
+	<iostream>
+	<stdlib.h>
+	<string>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
